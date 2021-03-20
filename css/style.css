@@ -20,6 +20,9 @@ ul {
     left: 0;
     z-index: 99;
 }
+.header_scroll {
+    background-color: rgba(0, 0, 0, 0.8);
+}
 .container {
     max-width: 1130px;
     margin: 0 auto;
