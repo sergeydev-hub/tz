@@ -167,6 +167,9 @@ ul {
     padding-top: 120px;
     background-color: #3a3a3a;
     background-image: url('../img/pic.png');
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 .firstScreen {
